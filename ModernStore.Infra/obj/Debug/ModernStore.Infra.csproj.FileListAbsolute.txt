@@ -1,0 +1,6 @@
+C:\Users\jfcruz\source\repos\ModernStore\ModernStore.Infra\bin\Debug\ModernStore.Infra.dll
+C:\Users\jfcruz\source\repos\ModernStore\ModernStore.Infra\bin\Debug\ModernStore.Infra.pdb
+C:\Users\jfcruz\source\repos\ModernStore\ModernStore.Infra\obj\Debug\ModernStore.Infra.csprojAssemblyReference.cache
+C:\Users\jfcruz\source\repos\ModernStore\ModernStore.Infra\obj\Debug\ModernStore.Infra.csproj.CoreCompileInputs.cache
+C:\Users\jfcruz\source\repos\ModernStore\ModernStore.Infra\obj\Debug\ModernStore.Infra.dll
+C:\Users\jfcruz\source\repos\ModernStore\ModernStore.Infra\obj\Debug\ModernStore.Infra.pdb

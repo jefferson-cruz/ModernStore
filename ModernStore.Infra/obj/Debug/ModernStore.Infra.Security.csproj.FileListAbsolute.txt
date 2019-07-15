@@ -1,0 +1,9 @@
+C:\Users\jfcruz\source\repos\ModernStore\ModernStore.Infra\bin\Debug\ModernStore.Infra.Security.dll
+C:\Users\jfcruz\source\repos\ModernStore\ModernStore.Infra\bin\Debug\ModernStore.Infra.Security.pdb
+C:\Users\jfcruz\source\repos\ModernStore\ModernStore.Infra\bin\Debug\ModernStore.Infra.Common.dll
+C:\Users\jfcruz\source\repos\ModernStore\ModernStore.Infra\bin\Debug\ModernStore.Infra.Common.pdb
+C:\Users\jfcruz\source\repos\ModernStore\ModernStore.Infra\obj\Debug\ModernStore.Infra.Security.csprojAssemblyReference.cache
+C:\Users\jfcruz\source\repos\ModernStore\ModernStore.Infra\obj\Debug\ModernStore.Infra.Security.csproj.CoreCompileInputs.cache
+C:\Users\jfcruz\source\repos\ModernStore\ModernStore.Infra\obj\Debug\ModernStore.Infra.Security.csproj.CopyComplete
+C:\Users\jfcruz\source\repos\ModernStore\ModernStore.Infra\obj\Debug\ModernStore.Infra.Security.dll
+C:\Users\jfcruz\source\repos\ModernStore\ModernStore.Infra\obj\Debug\ModernStore.Infra.Security.pdb

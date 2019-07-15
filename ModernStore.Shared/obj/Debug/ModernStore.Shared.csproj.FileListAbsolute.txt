@@ -1,0 +1,16 @@
+C:\Users\jfcruz\source\repos\ModernStore\ModernStore.Shared\bin\Debug\ModernStore.Shared.dll
+C:\Users\jfcruz\source\repos\ModernStore\ModernStore.Shared\bin\Debug\ModernStore.Shared.pdb
+C:\Users\jfcruz\source\repos\ModernStore\ModernStore.Shared\bin\Debug\FluentValidator.dll
+C:\Users\jfcruz\source\repos\ModernStore\ModernStore.Shared\obj\Debug\ModernStore.Shared.csproj.CoreCompileInputs.cache
+C:\Users\jfcruz\source\repos\ModernStore\ModernStore.Shared\obj\Debug\ModernStore.Shared.csproj.CopyComplete
+C:\Users\jfcruz\source\repos\ModernStore\ModernStore.Shared\obj\Debug\ModernStore.Shared.dll
+C:\Users\jfcruz\source\repos\ModernStore\ModernStore.Shared\obj\Debug\ModernStore.Shared.pdb
+C:\Users\jfcruz\source\repos\ModernStore\ModernStore.Shared\obj\Debug\ModernStore.Shared.csprojAssemblyReference.cache
+C:\Users\jfcruz\Downloads\ModernStore\ModernStore\ModernStore.Shared\bin\Debug\ModernStore.Shared.dll
+C:\Users\jfcruz\Downloads\ModernStore\ModernStore\ModernStore.Shared\bin\Debug\ModernStore.Shared.pdb
+C:\Users\jfcruz\Downloads\ModernStore\ModernStore\ModernStore.Shared\bin\Debug\FluentValidator.dll
+C:\Users\jfcruz\Downloads\ModernStore\ModernStore\ModernStore.Shared\obj\Debug\ModernStore.Shared.csprojAssemblyReference.cache
+C:\Users\jfcruz\Downloads\ModernStore\ModernStore\ModernStore.Shared\obj\Debug\ModernStore.Shared.csproj.CoreCompileInputs.cache
+C:\Users\jfcruz\Downloads\ModernStore\ModernStore\ModernStore.Shared\obj\Debug\ModernStore.Shared.csproj.CopyComplete
+C:\Users\jfcruz\Downloads\ModernStore\ModernStore\ModernStore.Shared\obj\Debug\ModernStore.Shared.dll
+C:\Users\jfcruz\Downloads\ModernStore\ModernStore\ModernStore.Shared\obj\Debug\ModernStore.Shared.pdb
