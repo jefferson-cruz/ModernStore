@@ -8,9 +8,9 @@ namespace ModernStore.Infra.Common.Email
     {
         public void Send(string toName, string toEmail, string subject, string body)
         {
-            var apiKey = "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";
+            var apiKey = "YOUR_API_KEY";
             var client = new SendGridClient(apiKey);
-            var from = new EmailAddress("jefferson-cruz@hotmail.com.br", "Example User");
+            var from = new EmailAddress("YOUR_EMAIL_FOR_SERVICE_WORK", "Example User");
             var to = new EmailAddress(toEmail, toName);
             var msg = MailHelper.CreateSingleEmail(from, to, subject, "", body);
 
